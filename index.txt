@@ -1,0 +1,67 @@
+## >---
+## >YamlDesc: CONTENT-ARTICLE
+## >Title: Machine Learning
+## >MetaDescription: Machine Learning basics introduction
+## >MetaKeywords: Machine learning basics introduction example code, tutorials
+## >Author: Venkata Bhattaram / tinitiate.com
+## >ContentName: machine-learning
+## >---
+
+## ># What is Machine Learning?
+## >* Machine learning is the aspect of computer science that enables computers 
+## >  to learn without being explicitly programmed.
+
+## >## How is Machine Learning implemented?
+## >* *SUPERVISED LEARNING** Using data existing patterns along with additional
+## >  attributes, to predict future patterns.
+## >* *UNSUPERVISED LEARNING** here the training data consists of a set of 
+## >  input vectors x without any corresponding target values. The objective here is 
+## >  to discover groups of similar examples within the data.
+
+## >## SUPERVISED LEARNING
+## >* Supervised Learning is the concept of machine learning, where predictions
+## >  happens using **TRAINING DATASET**
+## >* The TRAINING DATASET is madeup of inputs and classified outputs.
+## >* The INPUTs are called vectors and OUTPUTs are called supervisory signal.
+## >* The mapping between the INPUT and OUTPUT is done through a MAPPING FUNCTION,
+## >  Such that OUTPUT = MappingFunction(INPUT).
+## >* The objective in this approach is to make the algorithm of "MappingFunction"
+## >  to generate values same as expected outputs.
+
+## >### Supervised Learning - Classification
+## >* **CLASSIFICATION** is the concept of **SUPERVISED LEARNING** where the objective
+## >  of the machine learning program is to `classify input data into a category`.
+## >* Some applications of **Supervised Learning - Classification**, say would be;
+## >  Classify an image of a person as male or female.
+
+## >### Supervised Learning - Regression
+## >* **REGRESSION** is the concept of **SUPERVISED LEARNING** where the objective
+## >  of the machine learning program is to `predict a real value`, such as a dollar 
+## >  value in other currencies, or a days weather in temprature or stock prices.
+
+## >## UNSUPERVISED LEARNING
+## >* `Unsupervised Machine Learning`
+## >* This is machine learning without any reference to lookup for possible or expected
+## >  output as the objective of learning, only input data is provided.
+## >* `Unsupervised Machine Learning` could be called as true artificial intelligence
+## >  where a computer processes the data and learns to identify patterns within data
+## >  without any guidance (either human input or source data).
+## >* Unsupervised learning is acheived by two basic concepts clustering and association.
+## >* `CLUSTERING`
+## >  * Since there is no guidance data or lookup data, The idea of Clustering breaks
+## >    input data into data subsets or clusters with similar data characterstics.
+## >* `ASSOCIATION`
+## >  * Association rule learning is a method for discovering relations between data 
+## >    elements, which have common patterns to deduce other data.
+## >  * Identifying pairs of data Soda an Popcorn at a movie theater, or Shoe and polish.
+
+## >## REINFORCEMENT LEARNING
+## >* This is unsupervised way of achieving learning trough trial and error.
+## >* The goal of learning is defined as a state that is arrived by trial and 
+## >  error(estimation).
+## >* The outcomes are usually random.
+
+
+
+
+
